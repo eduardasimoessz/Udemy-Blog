@@ -1,0 +1,125 @@
+html {
+font-family: helvetica;
+background-color: #4dbce9;
+}
+
+.container {
+max-width: 1100px;
+background-color: #ffffff;
+position: relative;
+margin: 50px auto;
+padding: 50px 20px;
+}
+
+.bold {
+
+    font-weight: bold;
+}
+
+
+/* header */
+.header {
+
+    text-align: center;
+}
+
+.main-tittle {
+
+    font-size: 40px;
+    color: #4dbce9;
+}
+
+    .main-paragraph {
+font-style: italic;
+
+    }
+
+    .featured-image {
+text-align: center;
+margin-top: 30px;
+
+}
+
+    
+/* Biografia */
+.biography-container h2 {
+    color: #4dbce9;
+}
+
+.biography-container {
+
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #4dbce9;
+    border-bottom: 1px dashed #4dbce9;
+   
+}
+
+.biography-container a {
+    text-decoration:none;
+    color: #4dbce9;
+
+}
+
+.biography-container span { 
+color: #4dbce9;
+}
+
+/* Quotes */
+
+.quotes-container {
+background-color: #4dbce9;
+padding: 30px;
+color: #fff;
+
+}
+
+.quotes-container blockquote {
+font-weight: bold;
+font-size: 30px;
+color: #fff;
+
+}
+
+.quotes-container p {
+font-style: italic;
+
+}
+
+/* Curiosidades */
+
+.curiosities-container {
+padding: 25px 0;
+margin: 25px 0;
+border-top: 1px dashed #4dbce9;
+    border-bottom: 1px dashed #4dbce9;
+}
+
+.curiosities-container h2 {
+
+    color: #4dbce9;
+}
+
+.curiosities-container li {
+height: 30px;
+
+}
+/* Imagem Bold */
+
+.img-bold {
+    text-align: center;
+    margin-top: 30px;
+    
+    font-weight: bold;
+    font-size: 10px;
+    
+}
+
+.more-info h2 {
+    color: #4dbce9;
+}
+
+.more-info a {
+    text-decoration: none;
+    color: #4dbce9;
+}
